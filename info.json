@@ -1,0 +1,9 @@
+{
+	"provider": ["IBM"],
+	"name":  "Decision Optimisation with OPL-CPLEX samples" ,
+	"model": [ "CPLEX”, “OPL” ],
+	"development": [ "" ],
+	"category": [ "MODELING" ],
+	"industry": [ "Operational research" ],
+	"abstract": "OPL models, with different file types, for solution with CPLEX using DOcplexcloud."
+}
